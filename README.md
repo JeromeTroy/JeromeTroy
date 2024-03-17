@@ -3,8 +3,8 @@
 
 A bit about me:
 
-I am a PhD student at the University of Delaware in the Department of Mathematical Sciences.
-I work on mathematical modelling on problems in physics and related fields, my current research project is uncertainty quantification in brittle fracture problems.
+I am a mathematician at the Johns Hopkins Applied Physics Lab.
+I work on uncertainty quantification and stochastic processes.
 
 - Pronouns: He/Him
 - ⚡ Fun facts: I enjoy snowboarding in the mountains and kayaking with my pup!
